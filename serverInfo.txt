@@ -1,0 +1,15 @@
+Congratulations, ShadowsocksR server install completed!
+Your Server IP        :  144.34.177.37
+Your Server Port      :  10342
+Your Password         :  Gss123321
+Your Protocol         :  auth_sha1_v4_compatible
+Your obfs             :  plain
+Your Encryption Method:  aes-128-cfb8
+
+
+
+
+Windows
+    139.196.175.5 kR_786032
+BaWaGong
+    root@144.34.177.37 -p 29099 Gss123321
